@@ -76,7 +76,7 @@ Transformed data is loaded into Azure SQL Database, where tables are structured 
 #### Power BI — Final Solar Analytics Dashboard
 The Power BI report visualizes solar performance by state, city, and month with KPIs, trends, top-performing regions, and correlation insights.
 <p align="center">
-  <img src="docs/Dashbpard.png" width="800">
+  <img src="docs/Dashboard.png" width="800">
 </p>
 
 
